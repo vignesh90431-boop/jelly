@@ -14,7 +14,7 @@ An interactive, six-layer rainbow jelly experiment made with WebGPU — stretch 
   <img alt="Made by VICKROXSTUDIO" src="https://img.shields.io/badge/MADE%20BY-VICKROXSTUDIO-242424?style=for-the-badge">
 </p>
 
-<img src="assets/preview.png" alt="Glossy rainbow jelly bar branded with @vickroxstudio" width="900">
+<img src="assets/vickroxstudio-preview.png" alt="Glossy rainbow jelly bar branded with @vickroxstudio" width="900">
 
 </div>
 
@@ -45,7 +45,7 @@ Then open [http://localhost:8000](http://localhost:8000) in a recent WebGPU-capa
 ```text
 .
 ├── assets/
-│   └── preview.png
+│   └── vickroxstudio-preview.png
 ├── index.html
 └── README.md
 ```
